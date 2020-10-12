@@ -14,7 +14,7 @@ git clone --recursive https://github.com/uwe-app/sites
 Then you can compile all the websites with the command:
 
 ```
-uwe build
+cd sites && uwe build
 ```
 
 [website]: https://github.com/uwe-app/website
