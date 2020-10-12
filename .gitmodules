@@ -1,0 +1,6 @@
+[submodule "website"]
+	path = website
+	url = git@github.com:uwe-app/website.git
+[submodule "blog"]
+	path = blog
+	url = git@github.com:uwe-app/blog.git
