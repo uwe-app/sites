@@ -4,3 +4,6 @@
 [submodule "blog"]
 	path = blog
 	url = git@github.com:uwe-app/blog.git
+[submodule "releases"]
+	path = releases
+	url = git@github.com:uwe-app/releases-website.git
